@@ -1,7 +1,7 @@
 <!--- This README is used on the public profile --->
 
 # Introduction
-Hello. My name is Kelvin. Novice but curious programmer.
+Hello. My name is Kelvin, the novice but curious programmer.
 
 ## Hobbies & Interests
 - Linux sysadmin
