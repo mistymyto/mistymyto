@@ -13,5 +13,5 @@ I am the novice but curious programmer, but actions speak louder than words.
 - I enjoy reading the Bible, especially the Wisdom Books.
 - You learn math for school, I learn math for fun, we are not the same.
 
-> Don't stop, configuring, got to get that working
-> More bytes, Stack Overflowwwwww 
+> Don't stop, configuring, got to get that working<br>
+> More bytes, Stack Overflowwwwww
