@@ -3,13 +3,13 @@
 # Introduction
 Hello. My name is Kelvin. Novice but curious programmer.
 
-## Tech Related Hobbies
+## Hobbies & Interests
 - Linux sysadmin
 - Coding
 - Tinkering with configs
 
-## Favorite Book?
+### Favorite Book?
 Ecclesiastes from the Bible
 
-## Pets?
+### Pets?
 Look at this cat in my profile picture. That's Newton.
