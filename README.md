@@ -1,24 +1,15 @@
-<!---
-Misty-Myto/Misty-Myto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- This README is used on the public profile --->
 
 # Introduction
+Hello. My name is Kelvin. Novice but curious programmer.
 
-Hello. My name is Kelvin
+## Tech Related Hobbies
+- Linux sysadmin
+- Coding
+- Tinkering with configs
 
-I code and swear that I will not procrastinate
+## Favorite Book?
+Ecclesiastes from the Bible
 
-## Hobbies
-
-- Linux
-- Math (insert chad music)
-- Gaming
-- YouTube
-- Reading
-- Chess
-- And many more
-
-## Favorite Book of the Bible
-
-Ecclesiastes
+## Pets?
+Look at this cat in my profile picture. That's Newton.
