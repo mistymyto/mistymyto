@@ -1,7 +1,7 @@
 <!--- This README is used on the public profile --->
 
 # Hello world, it's Kelvin!
-I am the novice but curious programmer, but actions speak louder than words.
+I was, am, and always will be the novice but curious programmer.
 
 ## My Repertoire
 - Tools: Git, Neovim, and Docker
