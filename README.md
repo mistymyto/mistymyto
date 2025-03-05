@@ -1,15 +1,17 @@
 <!--- This README is used on the public profile --->
 
-# Introduction
-Hello. My name is Kelvin, the novice but curious programmer.
+# Hello world, it's Kelvin!
+I am the novice but curious programmer, but actions speak louder than words.
 
-## Hobbies & Interests
-- Linux sysadmin
-- Coding
-- Tinkering with configs
+## My Repertoire
+- Tools: Git, Neovim, and Docker
+- Languages: C, Lua, and Python
+- Hard Skills: a bit of linear algebra and calculus
 
-### Favorite Book?
-The Bible, especially the Book of Ecclesiastes.
+## About me
+- See the cat with mlg glasses? That's Newton. He's the rubberduck for my debugging.
+- I enjoy reading the Bible, especially the Wisdom Books.
+- You learn math for school, I learn math for fun, we are not the same.
 
-### Pets?
-Look at this cat in my profile picture. That's Newton.
+> Don't stop, configuring, got to get that working
+> More bytes, Stack Overflowwwwww 
