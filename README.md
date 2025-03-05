@@ -9,7 +9,7 @@ Hello. My name is Kelvin. Novice but curious programmer.
 - Tinkering with configs
 
 ### Favorite Book?
-Ecclesiastes from the Bible
+The Bible, especially the Book of Ecclesiastes.
 
 ### Pets?
 Look at this cat in my profile picture. That's Newton.
