@@ -14,4 +14,4 @@ I was, am, and always will be the novice but curious programmer.
 - You learn math for school, I learn math for fun, we are not the same.
 
 > Don't stop, configuring, got to get that working<br>
-> More bytes, Stack Overflowwwwww
+> Alright, stack overflowwwwww
