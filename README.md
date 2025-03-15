@@ -9,7 +9,7 @@ I was, am, and always will be the novice but curious programmer.
 - Hard Skills: a bit of linear algebra and calculus
 
 ## About me
-- See the cat with mlg glasses? That's Newton. He's the rubberduck for my debugging.
+- See the cat with mlg glasses? That's Newton. He's the rubberduck when I'm debugging.
 - I enjoy reading the Bible, especially the Wisdom Books.
 - You learn math for school, I learn math for fun, we are not the same.
 
