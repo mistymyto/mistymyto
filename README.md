@@ -9,4 +9,4 @@ I am an aspiring programmer with a passion for learning STEM and just about ever
 ## Fun Facts
 - My name means "Promise of Awakening."
 - See the cat with mlg glasses? That's Newton. He's the rubberduck when I'm debugging.
-- I enjoy reading the Bible, particularly the Wisdom Books.
+- I really like the Wisdom Books.
