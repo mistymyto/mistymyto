@@ -1,12 +1,4 @@
-# Hello world!
-I am an aspiring programmer with a passion for learning STEM and just about everything else.
-
-## My Repertoire
+## My Programming Repertoire
 - Tools: Git, Neovim, and Docker
 - Languages: C, Lua, and Python
 - Extras: Linear algebra and Calculus
-
-## Fun Facts
-- My name means "Promise of Awakening."
-- See the cat with mlg glasses? That's Newton. He's the rubberduck when I'm debugging.
-- I am infatuated with the Wisdom Books in the Bible.
